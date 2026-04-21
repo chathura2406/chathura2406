@@ -20,7 +20,6 @@
 - 🔧 Solid foundation in full-stack and backend systems, specializing in **Java Spring Boot**, RESTful APIs, and the **MERN stack**.
 - ☁️ Actively exploring **DevOps** (Docker, Kubernetes, AWS) and **AI/ML** technologies. 
 - 🎯 Goal-oriented towards becoming a proficient Cloud Engineer and stepping into technical leadership.
-- 🏏 When I'm not coding, you can usually find me playing cricket or reading a good detective mystery novel.
 
 <br>
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming & Frameworks
 <p align="center">
