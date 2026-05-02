@@ -64,7 +64,7 @@ Enterprise-grade RESTful API featuring JWT authentication, role-based access, an
 A complete compiler pipeline (Lexer, Parser, AST, Code Generator) for an HTTP API test DSL. Includes a modern web app to write DSL and generates production-quality JUnit 5 tests, reducing test code by 90%.
 
 ### 📈 Sales Executive Management App
-> Built with Spring Boot, React & MongoDB  
+> Built with Spring Boot, React & MySql  
 A full-stack application designed to help sales teams manage leads and track performance. Specifically developed and integrated the goal creation, tracking, and detailed performance analysis modules.
 
 ---
